@@ -22,6 +22,11 @@ li {
 
 a {
   color: inherit;
+  /* make sure hover background doesn't obscure surrounding text: */
+  display: inline-block;
+}
+a:hover {
+  background-color: gold;
 }
 
 header + ul {
