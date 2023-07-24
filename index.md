@@ -1,9 +1,11 @@
+- Year of birth: 1993
+- Location: HCMC, Vietnam
+- Blog: <https://hi.imnhan.com>
+- Email: <hi@imnhan.com>
+- FOSS: <https://github.com/nhanb>
+
 I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
-
-- Blog: https://hi.imnhan.com
-- Email: hi@imnhan.com
-- FOSS: https://github.com/nhanb
 
 ## Experience
 
@@ -54,18 +56,39 @@ the backend. I also develop various types of open source software as a hobby.
 
 #### Bachelor of Information Technology (2011--2014)
 
-- Graduated with GPA 3.8/4
+- Graduated with GPA **3.2/4**
 - IT Club Vice President
 
 ### [IELTS Academic][ielts]
 
-#### Overall score: 8.5 (2012)
+#### Overall score: **8.5** (2012)
 
 - Listening: 9
 - Reading: 9
 - Speaking: 7.5
 - Writing: 7.5
 - Featured on British Council's [website][bc] ([archive][bcm])
+
+## Open Source Software
+
+### [Pytaku][ptk]
+
+- A self-hosted web-based manga reader
+- Technologies: **Python**, **JavaScript**, **Flask**, **Mithril.js**,
+  **SQLite**
+
+### [GORTS][gorts]
+
+- A simple scoreboard overlay controller for fighting game streams. An earlier
+  version of it was successfully used for [Saigon Cup][sgc] [streams][sgcs] for
+  multiple years that peaked at 22k concurrent viewers including restreams in
+  Japanese & Mandarin.
+- Technologies: **Tcl/Tk**, **Go**
+
+### [McRoss browser][mcr]
+
+- A minimalistic desktop GUI browser for the Gemini protocol
+- Technologies: **Python**, **Tkinter**, **socket programming**
 
 [insp]: https://inspectorio.com/
 [pp]: https://www.parcelperform.com/
@@ -78,3 +101,9 @@ the backend. I also develop various types of open source software as a hobby.
 [ielts]: https://www.ielts.org/
 [bc]: https://www.britishcouncil.vn/hoc-tieng-anh/ielts
 [bcm]: https://web.archive.org/web/20230628172630/https://www.britishcouncil.vn/hoc-tieng-anh/ielts
+[ptk]: https://github.com/nhanb/pytaku
+[gorts]: https://github.com/nhanb/gorts
+[sgc]: https://sgc19.saigonfgc.com/en/
+[sgcs]: https://www.youtube.com/watch?v=9HwrXVi9Qa8&list=PLYSOEx17rT__sUi-xnf5PVrmtfd7IFi_l
+[mcr]: https://sr.ht/~nhanb/mcross/
+[more]: https://github.com/nhanb
