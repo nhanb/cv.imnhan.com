@@ -56,7 +56,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 #### Bachelor of Information Technology (2011--2014)
 
-- Graduated with GPA **3.2/4**
+- GPA: **3.2/4**
 - IT Club Vice President
 
 ### [IELTS Academic][ielts]
