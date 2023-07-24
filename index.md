@@ -7,6 +7,13 @@
 I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
 
+- Professional experience: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
+  Django, Django REST Framework, ReactJS, Docker, AWS, GCP, Chef, Ansible,
+  Kafka, REST APIs, GitHub, GitLab, Datadog, Sentry.
+- Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, MithrilJS,
+  SQLite, Nim, SourceHut, GUI programming, local IPC, socket programming,
+  [amateur][stick] [woodworking][pad].
+
 ## Experience
 
 ### [Inspectorio][insp]
@@ -84,6 +91,7 @@ the backend. I also develop various types of open source software as a hobby.
   multiple years that peaked at 22k concurrent viewers including restreams in
   Japanese & Mandarin.
 - Technologies: **Tcl/Tk**, **Go**
+  (earlier version used **Python** & **Tkinter**)
 
 ### [McRoss browser][mcr]
 
@@ -107,3 +115,5 @@ the backend. I also develop various types of open source software as a hobby.
 [sgcs]: https://www.youtube.com/watch?v=9HwrXVi9Qa8&list=PLYSOEx17rT__sUi-xnf5PVrmtfd7IFi_l
 [mcr]: https://sr.ht/~nhanb/mcross/
 [more]: https://github.com/nhanb
+[stick]: https://hi.imnhan.com/posts/my-first-diy-fightstick-part-2/
+[pad]: https://hi.imnhan.com/posts/simplest-possible-stepmania-soft-to-hard-pad-mod/
