@@ -3,6 +3,9 @@
 - Blog: <https://hi.imnhan.com>
 - Email: <hi@imnhan.com>
 - FOSS: <https://github.com/nhanb>
+- Web version: <https://cv.imnhan.com>
+- PDF version: [BuiThanhNhan.pdf][pdf]
+- References available upon request
 
 I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
@@ -81,7 +84,7 @@ the backend. I also develop various types of open source software as a hobby.
 ### [Pytaku][ptk]
 
 - A self-hosted web-based manga reader
-- Technologies: **Python**, **JavaScript**, **Flask**, **Mithril.js**,
+- Technologies: **Python**, **JavaScript**, **Flask**, **MithrilJS**,
   **SQLite**
 
 ### [GORTS][gorts]
@@ -95,7 +98,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [McRoss browser][mcr]
 
-- A minimalistic desktop GUI browser for the Gemini protocol
+- A minimalistic, cross-platform desktop GUI browser for the Gemini protocol
 - Technologies: **Python**, **Tkinter**, **socket programming**
 
 [insp]: https://inspectorio.com/
@@ -117,3 +120,4 @@ the backend. I also develop various types of open source software as a hobby.
 [more]: https://github.com/nhanb
 [stick]: https://hi.imnhan.com/posts/my-first-diy-fightstick-part-2/
 [pad]: https://hi.imnhan.com/posts/simplest-possible-stepmania-soft-to-hard-pad-mod/
+[pdf]: https://cv.imnhan.com/BuiThanhNhan.pdf

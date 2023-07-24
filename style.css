@@ -35,6 +35,7 @@ header + ul {
 header + ul li {
   margin: 0;
   padding: 0;
+  line-height: 1.3rem;
 }
 
 h1 {
@@ -43,7 +44,7 @@ h1 {
 }
 
 h2 {
-  /* experience/qualifications */
+  /* experience / qualifications / open source software */
   font-size: 1.5rem;
   font-weight: normal;
   text-transform: uppercase;
@@ -71,12 +72,13 @@ h4 {
 #qualifications,
 #open-source-software {
   display: inline-block;
-  width: 45%;
+  width: 50%;
+  box-sizing: border-box;
   vertical-align: top;
+  float: left;
 }
-
 #open-source-software {
-  margin-left: 1rem;
+  padding-left: 1rem;
 }
 
 /* charis-sil-regular - latin_vietnamese */
