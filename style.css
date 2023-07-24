@@ -1,0 +1,95 @@
+html {
+  font-family: "Charis SIL", sans-serif;
+  font-size: 18px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p,
+li {
+  line-height: 1.2rem;
+}
+
+body {
+  padding: 0.3rem 1rem;
+}
+
+li {
+  margin: 0 2rem;
+}
+
+a {
+  color: inherit;
+}
+
+h1 {
+  /* name */
+  font-size: 1.6rem;
+}
+
+h2 {
+  /* experience/qualifications */
+  font-size: 1.5rem;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+  border-bottom: 1px solid black;
+}
+
+h3 {
+  /* company */
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  padding: 0.2rem 0;
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+h4 {
+  /* job title (year) */
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  font-weight: normal;
+  font-style: italic;
+  margin-bottom: 0.2rem;
+}
+
+/* charis-sil-regular - latin_vietnamese */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Charis SIL";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/charis-sil-v2-latin_vietnamese-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* charis-sil-italic - latin_vietnamese */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Charis SIL";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/charis-sil-v2-latin_vietnamese-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* charis-sil-700 - latin_vietnamese */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Charis SIL";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/charis-sil-v2-latin_vietnamese-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* charis-sil-700italic - latin_vietnamese */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Charis SIL";
+  font-style: italic;
+  font-weight: 700;
+  src: url("fonts/charis-sil-v2-latin_vietnamese-700italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
