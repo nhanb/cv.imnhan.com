@@ -1,6 +1,10 @@
 I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
 
+- Blog: https://hi.imnhan.com
+- Email: hi@imnhan.com
+- FOSS: https://github.com/nhanb
+
 ## Experience
 
 ### [Inspectorio][insp]
