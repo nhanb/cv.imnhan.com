@@ -30,7 +30,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [Parcel Perform][pp]
 
-#### Senior Backend Engineer (2018--2010)
+#### Senior Backend Engineer (2018--2020)
 
 - Developed backend for:
   + [parcelperform.com][pp] & [parcelmonitor.com][pm]: a set of microservices
