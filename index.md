@@ -77,7 +77,7 @@ the backend. I also develop various types of open source software as a hobby.
 - Reading: 9
 - Speaking: 7.5
 - Writing: 7.5
-- Featured on British Council's [website][bc] ([archive][bcm])
+- Featured on British Council's [website][bc] [(archive)][bcm]
 
 ## Open Source Software
 
