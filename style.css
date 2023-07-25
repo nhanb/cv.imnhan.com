@@ -1,5 +1,6 @@
 html {
   font-family: "Charis SIL", sans-serif;
+  font-size: 1rem;
 }
 
 * {
@@ -74,7 +75,16 @@ h4 {
   margin-bottom: 0.2rem;
 }
 
-@media (min-width: 44rem) {
+@media (min-width: 30rem) {
+  header + ul {
+    float: right;
+    margin-left: 0.5rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+}
+
+@media (min-width: 50rem) {
   #qualifications,
   #open-source-software {
     display: inline-block;
@@ -86,15 +96,6 @@ h4 {
   }
   #qualifications {
     padding-left: 1rem;
-  }
-}
-
-@media (min-width: 23rem) {
-  header + ul {
-    float: right;
-    margin-left: 0.5rem;
-    margin-top: 0;
-    margin-bottom: 0.5rem;
   }
 }
 
