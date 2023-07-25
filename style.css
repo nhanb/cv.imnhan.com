@@ -46,6 +46,10 @@ header + ul li {
   padding: 0;
 }
 
+header + ul + p {
+  margin-bottom: 0.5rem;
+}
+
 h1 {
   /* name */
   font-size: 1.6rem;
