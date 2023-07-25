@@ -13,7 +13,7 @@ li {
 }
 
 body {
-  padding: 0.3rem 1rem;
+  padding: 0.3rem 1rem 1rem 1rem;
 }
 
 li {
@@ -31,11 +31,12 @@ a:hover {
 
 header + ul {
   list-style: none outside none;
-  float: right;
   background-color: #eaeaea;
   border: 1px solid black;
   padding: 0.5rem;
-  margin-left: 0.5rem;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  width: fit-content;
 }
 header + ul li {
   margin: 0;
@@ -73,16 +74,28 @@ h4 {
   margin-bottom: 0.2rem;
 }
 
-#qualifications,
-#open-source-software {
-  display: inline-block;
-  width: 50%;
-  box-sizing: border-box;
-  vertical-align: top;
-  float: left;
+@media (min-width: 44rem) {
+  #qualifications,
+  #open-source-software {
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    vertical-align: top;
+    float: right;
+    padding-bottom: 1rem;
+  }
+  #qualifications {
+    padding-left: 1rem;
+  }
 }
-#open-source-software {
-  padding-left: 1rem;
+
+@media (min-width: 23rem) {
+  header + ul {
+    float: right;
+    margin-left: 0.5rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
 }
 
 /* charis-sil-regular - latin_vietnamese */
