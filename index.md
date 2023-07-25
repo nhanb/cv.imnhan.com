@@ -5,7 +5,6 @@
 - FOSS: <https://github.com/nhanb>
 - Web version: <https://cv.imnhan.com>
 - PDF version: [BuiThanhNhan.pdf][pdf]
-- References available upon request
 
 I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
@@ -79,7 +78,7 @@ the backend. I also develop various types of open source software as a hobby.
 - Writing: 7.5
 - Featured on British Council's [website][bc] [(archive)][bcm]
 
-## Open Source Software
+## Open Source Projects
 
 ### [Pytaku][ptk]
 
@@ -89,17 +88,22 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [GORTS][gorts]
 
-- A simple scoreboard overlay controller for fighting game streams. An earlier
+- Scoreboard overlay controller for fighting game streams. An earlier
   version of it was successfully used for [Saigon Cup][sgc] [streams][sgcs] for
   multiple years that peaked at 22k concurrent viewers including restreams in
   Japanese & Mandarin.
 - Technologies: **Tcl/Tk**, **Go**
-  (earlier version used **Python** & **Tkinter**)
+  (previously **Python** & **Tkinter**)
 
 ### [McRoss browser][mcr]
 
 - A minimalistic, cross-platform desktop GUI browser for the Gemini protocol
 - Technologies: **Python**, **Tkinter**, **socket programming**
+
+## Miscellaneous
+
+- Source code: <https://github.com/nhanb/cv.imnhan.com/>
+- References available upon request
 
 [insp]: https://inspectorio.com/
 [pp]: https://www.parcelperform.com/

@@ -52,7 +52,7 @@ header + ul + p {
 
 h1 {
   /* name */
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 h2 {
@@ -82,16 +82,18 @@ h4 {
 }
 
 #qualifications,
-#open-source-software {
+#open-source-projects {
   display: inline-block;
   width: 50%;
   box-sizing: border-box;
   vertical-align: top;
-  float: right;
-  padding-bottom: 1rem;
+  float: left;
 }
 #qualifications {
-  padding-left: 1.5rem;
+  padding-right: 2rem;
+}
+#miscellaneous {
+  clear: both;
 }
 
 @media (max-width: 30rem) {
@@ -103,7 +105,7 @@ h4 {
 }
 @media (max-width: 50rem) {
   #qualifications,
-  #open-source-software {
+  #open-source-projects {
     display: block;
     width: 100%;
     float: none;
@@ -113,12 +115,12 @@ h4 {
 
 @page {
   size: A4 portrait;
-  margin: 4pt;
+  margin: 10pt 4pt;
 }
 
 @media print {
   html {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 
