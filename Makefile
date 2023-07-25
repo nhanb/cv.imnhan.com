@@ -5,7 +5,7 @@ index.html: index.md
 		--metadata title="Bùi Thành Nhân" --section-divs
 
 BuiThanhNhan.pdf: index.html style.css
-	weasyprint --full-fonts --hinting index.html BuiThanhNhan.pdf
+	weasyprint --hinting index.html BuiThanhNhan.pdf
 
 watch:
 	ls | entr -c make
