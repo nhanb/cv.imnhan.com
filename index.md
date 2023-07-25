@@ -12,10 +12,10 @@ the backend. I also develop various types of open source software as a hobby.
 
 - Professional experience: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
   Django, Django REST Framework, ReactJS, Docker, AWS, GCP, Chef, Ansible,
-  Kafka, REST APIs, GitHub, GitLab, Datadog, Sentry.
+  Kafka, Redis, REST APIs, GitHub, GitLab, Datadog, Sentry.
 - Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, MithrilJS,
-  SQLite, Nim, SourceHut, GUI programming, local IPC, socket programming,
-  [amateur][stick] [woodworking][pad].
+  SQLite, Flask, Nim, QML, SourceHut, cross-platform GUI programming, local
+  IPC, socket programming, [amateur][stick] [woodworking][pad].
 
 ## Experience
 
