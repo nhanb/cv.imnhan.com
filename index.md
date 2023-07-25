@@ -23,7 +23,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 #### Senior Backend Engineer (2021--2023)
 
-- Developed SaaS backend for a B2B SaaS product that streamlines the physical
+- Developed backend for a B2B SaaS product that streamlines the physical
   goods inspection pipeline
 - Technologies: **Django REST Framework**, **Postgres**, **Docker**, **Google
   Cloud Platform**
