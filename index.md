@@ -10,12 +10,12 @@ I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
 
 - Professional experience: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
-  Django, Django REST Framework, ReactJS, Docker, AWS, GCP, Chef, Ansible,
-  Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
-- Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, MithrilJS,
-  SQLite, Flask, Nim, QML, GitHub Actions, SourceHut, cross-platform GUI
-  programming, local IPC, socket programming, static site generators, shell
-  scripts, [amateur][stick] [woodworking][pad].
+  Django, Django REST Framework, Docker, ReactJS, AWS, GCP, Ansible, Kafka,
+  Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
+- Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, SQLite,
+  Flask, GitHub Actions, SourceHut, cross-platform GUI programming, local IPC,
+  socket programming, static site generators, shell scripts, [amateur][stick]
+  [woodworking][pad].
 
 ## Experience
 
