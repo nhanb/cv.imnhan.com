@@ -1,4 +1,5 @@
 - Year of birth: 1993
+- Gender: Male
 - Location: HCMC, Vietnam
 - Blog: <https://hi.imnhan.com>
 - Email: <hi@imnhan.com>
@@ -13,9 +14,9 @@ the backend. I also develop various types of open source software as a hobby.
   Django, Django REST Framework, Docker, ReactJS, AWS, GCP, Ansible, Kafka,
   Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
 - Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, SQLite,
-  Flask, GitHub Actions, SourceHut, cross-platform GUI programming, local IPC,
-  socket programming, static site generators, shell scripts, [amateur][stick]
-  [woodworking][pad].
+  Flask, GitHub Actions, SourceHut, Nginx, Caddy, Systemd, Makefiles,
+  cross-platform desktop GUI programming, socket programming, static site
+  generators, shell scripting, [amateur][stick] [woodworking][pad].
 
 ## Experience
 

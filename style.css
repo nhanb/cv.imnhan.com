@@ -115,7 +115,7 @@ h4 {
 
 @page {
   size: A4 portrait;
-  margin: 10pt 4pt;
+  margin: 4pt;
 }
 
 @media print {
