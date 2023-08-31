@@ -1,7 +1,8 @@
 all: index.html BuiThanhNhan.pdf
 
 index.html: index.md
-	pandoc -s index.md -f markdown+smart -o index.html -c style.css -t html5 \
+	pandoc -s index.md -f markdown+smart+native_divs \
+		-o index.html -c style.css -t html5 \
 		--metadata title="Bùi Thành Nhân" --section-divs
 
 BuiThanhNhan.pdf: index.html style.css

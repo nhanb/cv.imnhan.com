@@ -27,8 +27,8 @@ the backend. I also develop various types of open source software as a hobby.
 - Developed backend for a B2B SaaS product that streamlines the physical
   goods inspection workflow.
 - Performed rigorous code review.
-- Took part in squad's quarterly high level estimation.
-- Wrote official "getting started" guide for new backend engineers.
+- Performed feature estimation for cycle and sprint planning.
+- Mentored more junior engineers.
 - Technologies: **Django REST Framework**, **Postgres**, **Docker**, **Google
   Cloud Platform**.
 
@@ -52,17 +52,45 @@ the backend. I also develop various types of open source software as a hobby.
 - Maintained backend and single-page-app frontend for the Citizen Police Data
   Project ([cpdp.co][cpdp]), a highly interactive visualization of an extensive
   Chicago police misconduct database.
+- Performed pair programming and applied rigorous Test-Driven Development.
 - Technologies: **React/Redux**, **Django REST Framework**, **Ansible**.
 
 ### [Cogini][cog]
 
 #### Web Developer (2014--2015)
 
-- Developed web apps and implemented server-side API for mobile apps using
-  Warp: an in-house web microframework based on Twisted. Did configuration
-  management using Chef.
+- Developed web apps and implemented server-side API for mobile apps.
+- Maintained configuration management using Chef.
 - Technologies: **Python**, **Postgres**, **nginx**, **JavaScript**, **Chef**
 
+## Open Source Projects
+
+### [Pytaku][ptk]
+
+- A self-hosted web-based manga reader
+- Technologies: **Python**, **JavaScript**, **Flask**, **MithrilJS**,
+  **SQLite**
+
+### [McRoss browser][mcr]
+
+- A minimalistic, cross-platform desktop GUI browser for the Gemini protocol
+- Technologies: **Python**, **Tkinter**, **socket programming**
+
+### [s4g][s4g]
+
+- Flexible static site generator that powers my own blog
+- Technologies: **Go**, **JavaScript**
+
+### [GORTS][gorts]
+
+- Scoreboard overlay controller for fighting game streams. An earlier
+  version of it was successfully used for [Saigon Cup][sgc] [streams][sgcs] for
+  multiple years that peaked at 22k concurrent viewers including restreams in
+  Japanese & Mandarin.
+- Technologies: **Go**, **Tcl/Tk**
+  (previously **Python**, **Tkinter**)
+
+::: {#right-column}
 
 ## Qualifications
 
@@ -83,32 +111,15 @@ the backend. I also develop various types of open source software as a hobby.
 - Writing: 7.5
 - Featured on British Council's [website][bc] [(archive)][bcm]
 
-## Open Source Projects
-
-### [GORTS][gorts]
-
-- Scoreboard overlay controller for fighting game streams. An earlier
-  version of it was successfully used for [Saigon Cup][sgc] [streams][sgcs] for
-  multiple years that peaked at 22k concurrent viewers including restreams in
-  Japanese & Mandarin.
-- Technologies: **Tcl/Tk**, **Go**
-  (previously **Python** & **Tkinter**)
-
-### [McRoss browser][mcr]
-
-- A minimalistic, cross-platform desktop GUI browser for the Gemini protocol
-- Technologies: **Python**, **Tkinter**, **socket programming**
-
-### [Pytaku][ptk]
-
-- A self-hosted web-based manga reader
-- Technologies: **Python**, **JavaScript**, **Flask**, **MithrilJS**,
-  **SQLite**
-
 ## Miscellaneous
 
-- Source code: <https://github.com/nhanb/cv.imnhan.com/>
+- Source: <https://github.com/nhanb/cv.imnhan.com/>
 - References available upon request
+
+:::
+
+::: {.clearfix}
+:::
 
 [insp]: https://inspectorio.com/
 [pp]: https://www.parcelperform.com/
@@ -130,3 +141,4 @@ the backend. I also develop various types of open source software as a hobby.
 [stick]: https://hi.imnhan.com/posts/my-first-diy-fightstick-part-1/
 [pad]: https://hi.imnhan.com/posts/simplest-possible-stepmania-soft-to-hard-pad-mod/
 [pdf]: https://cv.imnhan.com/BuiThanhNhan.pdf
+[s4g]: https://hi.imnhan.com/s4g/

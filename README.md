@@ -1,7 +1,7 @@
 My CV, in web and PDF forms. See <https://cv.imnhan.com>.
 
-I used [pandoc][pd] to turn markdown into html, then [weasyprint][wp] to turn
-html into pdf, because I'm too lazy to learn LaTeX.
+I used [pandoc][pd] to turn markdown into html,
+then [weasyprint][wp] to turn html into pdf.
 
 # Build
 

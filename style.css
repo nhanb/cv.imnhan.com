@@ -1,3 +1,5 @@
+/* Retro css with floats to make it easy for weasyprint */
+
 html {
   font-family: "Charis SIL", sans-serif;
   font-size: 1rem;
@@ -16,6 +18,10 @@ li {
 body {
   padding: 0.3rem 1rem 1rem 1rem;
   max-width: 120rem;
+}
+
+.clearfix {
+  clear: both;
 }
 
 li {
@@ -81,7 +87,7 @@ h4 {
   margin-bottom: 0.2rem;
 }
 
-#qualifications,
+#right-column,
 #open-source-projects {
   display: inline-block;
   width: 50%;
@@ -89,11 +95,8 @@ h4 {
   vertical-align: top;
   float: left;
 }
-#qualifications {
-  padding-right: 2rem;
-}
-#miscellaneous {
-  clear: both;
+#right-column {
+  padding-left: 2rem;
 }
 
 @media (max-width: 30rem) {
@@ -104,7 +107,7 @@ h4 {
   }
 }
 @media (max-width: 50rem) {
-  #qualifications,
+  #right-column,
   #open-source-projects {
     display: block;
     width: 100%;
