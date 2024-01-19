@@ -11,8 +11,8 @@ I'm a software engineer specialized in web development with a strong focus on
 the backend. I also develop various types of open source software as a hobby.
 
 - Professional experience: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
-  Django, Django REST Framework, Docker, ReactJS, AWS, GCP, Ansible, Kafka,
-  Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
+  Django, Django REST Framework, Docker, ReactJS, AWS, GCP, Azure, Ansible,
+  Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
 - Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, SQLite,
   Flask, GitHub Actions, SourceHut, Nginx, Caddy, Systemd, Makefiles,
   cross-platform desktop GUI programming, socket programming, static site
@@ -20,9 +20,18 @@ the backend. I also develop various types of open source software as a hobby.
 
 ## Experience
 
+### [MODEC][modec]
+
+#### Senior Backend Engineer (10/2023 -- Current)
+
+- Developed backend for an internal web-based human resources management system
+  for FPSO vessels.
+- Technologies: **Django REST Framework**, **Postgres**, **Docker**,
+  **Microsoft Azure**.
+
 ### [Inspectorio][insp]
 
-#### Senior Backend Engineer (2021--2023)
+#### Senior Backend Engineer (02/2021 -- 01/2023)
 
 - Developed backend for a B2B SaaS product that streamlines the physical
   goods inspection workflow.
@@ -34,7 +43,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [Parcel Perform][pp]
 
-#### Senior Backend Engineer (2018--2020)
+#### Senior Backend Engineer (02/2018 -- 03/2020)
 
 - Worked on backend for:
   + [parcelperform.com][pp] & [parcelmonitor.com][pm]: a set of microservices
@@ -47,7 +56,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [East Agile][ea]
 
-#### Senior Software Developer (2016--2018)
+#### Senior Software Developer (06/2016 -- 01/2018)
 
 - Maintained backend and single-page-app frontend for the Citizen Police Data
   Project ([cpdp.co][cpdp]), a highly interactive visualization of an extensive
@@ -57,7 +66,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [Cogini][cog]
 
-#### Web Developer (2014--2015)
+#### Web Developer (02/2014 -- 04/2015)
 
 - Developed web apps and implemented server-side API for mobile apps.
 - Maintained configuration management using Chef.
@@ -99,6 +108,7 @@ the backend. I also develop various types of open source software as a hobby.
 #### Bachelor of Information Technology (2011--2014)
 
 - GPA: **3.2/4**
+- Full scholarship
 - IT Club Vice President
 
 ### [IELTS Academic][ielts]
@@ -142,3 +152,4 @@ the backend. I also develop various types of open source software as a hobby.
 [pad]: https://hi.imnhan.com/posts/simplest-possible-stepmania-soft-to-hard-pad-mod/
 [pdf]: https://cv.imnhan.com/BuiThanhNhan.pdf
 [s4g]: https://hi.imnhan.com/s4g/
+[modec]: https://www.modec.com/

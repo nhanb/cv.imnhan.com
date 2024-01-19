@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -49,8 +52,8 @@ software as a hobby.</p>
 <ul>
 <li>Professional experience: Git, Python, JavaScript, HTML, CSS,
 PostgreSQL, Django, Django REST Framework, Docker, ReactJS, AWS, GCP,
-Ansible, Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog,
-Sentry.</li>
+Azure, Ansible, Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI,
+Datadog, Sentry.</li>
 <li>Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter,
 SQLite, Flask, GitHub Actions, SourceHut, Nginx, Caddy, Systemd,
 Makefiles, cross-platform desktop GUI programming, socket programming,
@@ -61,10 +64,23 @@ href="https://hi.imnhan.com/posts/simplest-possible-stepmania-soft-to-hard-pad-m
 </ul>
 <section id="experience" class="level2">
 <h2>Experience</h2>
+<section id="modecmodec" class="level3">
+<h3><a href="https://www.modec.com/">MODEC</a></h3>
+<section id="senior-backend-engineer-102023-current" class="level4">
+<h4>Senior Backend Engineer (10/2023 – Current)</h4>
+<ul>
+<li>Developed backend for an internal web-based human resources
+management system for FPSO vessels.</li>
+<li>Technologies: <strong>Django REST Framework</strong>,
+<strong>Postgres</strong>, <strong>Docker</strong>, <strong>Microsoft
+Azure</strong>.</li>
+</ul>
+</section>
+</section>
 <section id="inspectorioinsp" class="level3">
 <h3><a href="https://inspectorio.com/">Inspectorio</a></h3>
-<section id="senior-backend-engineer-20212023" class="level4">
-<h4>Senior Backend Engineer (2021–2023)</h4>
+<section id="senior-backend-engineer-022021-012023" class="level4">
+<h4>Senior Backend Engineer (02/2021 – 01/2023)</h4>
 <ul>
 <li>Developed backend for a B2B SaaS product that streamlines the
 physical goods inspection workflow.</li>
@@ -79,8 +95,8 @@ Platform</strong>.</li>
 </section>
 <section id="parcel-performpp" class="level3">
 <h3><a href="https://www.parcelperform.com/">Parcel Perform</a></h3>
-<section id="senior-backend-engineer-20182020" class="level4">
-<h4>Senior Backend Engineer (2018–2020)</h4>
+<section id="senior-backend-engineer-022018-032020" class="level4">
+<h4>Senior Backend Engineer (02/2018 – 03/2020)</h4>
 <ul>
 <li>Worked on backend for:
 <ul>
@@ -102,8 +118,8 @@ providers to interoperate.</li>
 </section>
 <section id="east-agileea" class="level3">
 <h3><a href="https://www.eastagile.com/">East Agile</a></h3>
-<section id="senior-software-developer-20162018" class="level4">
-<h4>Senior Software Developer (2016–2018)</h4>
+<section id="senior-software-developer-062016-012018" class="level4">
+<h4>Senior Software Developer (06/2016 – 01/2018)</h4>
 <ul>
 <li>Maintained backend and single-page-app frontend for the Citizen
 Police Data Project (<a href="https://cpdp.co">cpdp.co</a>), a highly
@@ -118,8 +134,8 @@ Framework</strong>, <strong>Ansible</strong>.</li>
 </section>
 <section id="coginicog" class="level3">
 <h3><a href="https://www.cogini.com/">Cogini</a></h3>
-<section id="web-developer-20142015" class="level4">
-<h4>Web Developer (2014–2015)</h4>
+<section id="web-developer-022014-042015" class="level4">
+<h4>Web Developer (02/2014 – 04/2015)</h4>
 <ul>
 <li>Developed web apps and implemented server-side API for mobile
 apps.</li>
@@ -183,6 +199,7 @@ class="level4">
 <h4>Bachelor of Information Technology (2011–2014)</h4>
 <ul>
 <li>GPA: <strong>3.2/4</strong></li>
+<li>Full scholarship</li>
 <li>IT Club Vice President</li>
 </ul>
 </section>
