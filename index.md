@@ -14,7 +14,7 @@ the backend. I also develop various types of open source software as a hobby.
   Django, Django REST Framework, Docker, ReactJS, AWS, GCP, Azure, Ansible,
   Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
 - Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, SQLite,
-  Flask, GitHub Actions, SourceHut, Nginx, Caddy, Systemd, Makefiles,
+  Flask, GitHub Actions, SourceHut, Nginx, Caddy, systemd, Makefiles,
   cross-platform desktop GUI programming, socket programming, static site
   generators, shell scripting, [amateur][stick] [woodworking][pad].
 
@@ -25,7 +25,7 @@ the backend. I also develop various types of open source software as a hobby.
 #### Senior Backend Engineer (10/2023 -- Current)
 
 - Developed backend for an internal web-based human resources management system
-  for FPSO vessels.
+  for FPSO vessel construction projects.
 - Technologies: **Django REST Framework**, **Postgres**, **Docker**,
   **Microsoft Azure**.
 
