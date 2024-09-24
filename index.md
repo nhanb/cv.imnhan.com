@@ -24,10 +24,13 @@ the backend. I also develop various types of open source software as a hobby.
 
 #### Senior Backend Engineer (10/2023 -- Current)
 
-- Developed backend for an internal web-based human resources management system
-  for FPSO vessel construction projects.
+- Developed backend for an internal web-based human resources management
+  system for FPSO vessel construction projects.
+- Collaborated closely with PO to develop features, which involved
+  architectural decisions and effort estimation.
+- Wrote internal developer tooling to aid in selective feature rollouts.
 - Technologies: **Django REST Framework**, **Postgres**, **Docker**,
-  **Microsoft Azure**.
+  **Microsoft Azure Cloud**.
 
 ### [Inspectorio][insp]
 
@@ -37,7 +40,9 @@ the backend. I also develop various types of open source software as a hobby.
   goods inspection workflow.
 - Performed rigorous code review.
 - Performed feature estimation for cycle and sprint planning.
-- Mentored more junior engineers.
+- Mentored more junior engineers via code review, pair programming and coaching
+  on topics like Git workflows.
+- Wrote internal getting-started guide for onboarding Backend Engineers.
 - Technologies: **Django REST Framework**, **Postgres**, **Docker**, **Google
   Cloud Platform**.
 
