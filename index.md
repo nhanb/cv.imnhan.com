@@ -7,37 +7,51 @@
 - Web version: <https://cv.imnhan.com>
 - PDF version: [BuiThanhNhan.pdf][pdf]
 
-I'm a software engineer specialized in web development with a strong focus on
-the backend. I also develop various types of open source software as a hobby.
+I'm a senior software engineer specialized in **web development** with a
+strong focus on the backend and **DevOps**.
 
-- Professional experience: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
-  Django, Django REST Framework, Docker, ReactJS, AWS, GCP, Azure, Ansible,
-  Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI, Datadog, Sentry.
-- Casual experience (through hobby projects): Go, Tcl/Tk, Tkinter, SQLite,
-  Flask, GitHub Actions, SourceHut, Nginx, Caddy, systemd, Makefiles,
-  cross-platform desktop GUI programming, socket programming, static site
-  generators, shell scripting, [amateur][stick] [woodworking][pad].
+I have 10 years of experience working in a variety of environments: outsource
+and product startups, remote and onsite, with international teams across
+multiple timezones.
+
+I also develop various types of open source software as a hobby, not only to
+solve immediate problems and satisfy my intellectual curiosity, but also to
+evaluate interesting emerging technologies.
+
+- **Professional experience**: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
+  Django, Django REST Framework, Docker, Docker Compose, ReactJS, AWS, GCP,
+  Microsoft Azure, Ansible, Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI,
+  Datadog, Sentry, AWS Lambda.
+- **Casual experience** (through hobby projects): Go, Tcl/Tk, Zig, Tkinter,
+  SQLite, Flask, GitHub Actions, SourceHut, Nginx, Caddy, systemd, Makefiles,
+  pyinfra, Tailscale, cross-platform desktop GUI programming, socket
+  programming, static site generators, shell scripting, [amateur][stick]
+  [woodworking][pad].
 
 ## Experience
 
 ### [MODEC][modec]
 
-#### Senior Backend Engineer (10/2023 -- Current)
+#### Senior Software Engineer - Backend & Infrastructure (10/2023 -- Current)
 
 - Developed backend for an internal web-based human resources management
   system for FPSO vessel construction projects.
-- Collaborated closely with PO to develop features, which involved
-  architectural decisions and effort estimation.
+- Maintained infrastructure-as-code repo that utilized terraform to manage
+  Azure cloud resources.
 - Wrote internal developer tooling to aid in selective feature rollouts.
+- Collaborated with Product Owners to develop features, which involved
+  architectural decisions and effort estimation.
 - Technologies: **Django REST Framework**, **Postgres**, **Docker**,
   **Microsoft Azure Cloud**.
 
 ### [Inspectorio][insp]
 
-#### Senior Backend Engineer (02/2021 -- 01/2023)
+#### Senior Software Engineer - Backend (02/2021 -- 01/2023)
 
 - Developed backend for a B2B SaaS product that streamlines the physical
   goods inspection workflow.
+- Introduced in-memory caching layer for authentication service responses that
+  improved average end-to-end API response time by ~30%.
 - Performed rigorous code review.
 - Performed feature estimation for cycle and sprint planning.
 - Mentored more junior engineers via code review, pair programming and coaching
@@ -48,7 +62,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [Parcel Perform][pp]
 
-#### Senior Backend Engineer (02/2018 -- 03/2020)
+#### Senior Software Engineer - Backend (02/2018 -- 03/2020)
 
 - Worked on backend for:
   + [parcelperform.com][pp] & [parcelmonitor.com][pm]: a set of microservices
@@ -57,11 +71,12 @@ the backend. I also develop various types of open source software as a hobby.
   + [lockeralliance.net][la]: Singapore’s federated smart locker system which
     provides a single consistent interface for locker operators and logistics
     service providers to interoperate.
-- Technologies: **Django REST Framework**, **Postgres**, **Docker**, **AWS**.
+- Technologies: **Django REST Framework**, **Postgres**, **Docker Compose**,
+  **AWS**.
 
 ### [East Agile][ea]
 
-#### Senior Software Developer (06/2016 -- 01/2018)
+#### Senior Software Developer - Fullstack (06/2016 -- 01/2018)
 
 - Maintained backend and single-page-app frontend for the Citizen Police Data
   Project ([cpdp.co][cpdp]), a highly interactive visualization of an extensive
@@ -71,7 +86,7 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [Cogini][cog]
 
-#### Web Developer (02/2014 -- 04/2015)
+#### Web Developer - Backend & Infrastructure (02/2014 -- 04/2015)
 
 - Developed web apps and implemented server-side API for mobile apps.
 - Maintained configuration management using Chef.
@@ -81,19 +96,24 @@ the backend. I also develop various types of open source software as a hobby.
 
 ### [Pytaku][ptk]
 
-- A self-hosted web-based manga reader
+- A self-hosted web-based manga reader.
+- Utilized a simple web stack with automated TLS cert management via Caddy.
+- (Ab)used Google App Engine as an auto-IP-rotating proxy server for the web
+  scraper.
+- Experimented with bare minimum frontend dependencies (MithrilJS being the
+  only non-cosmetic 3rd-party library), and simple bundling with esbuild.
 - Technologies: **Python**, **JavaScript**, **Flask**, **MithrilJS**,
-  **SQLite**
+  **SQLite**, **Caddy**, **Google App Engine**, **esbuild**.
 
 ### [McRoss browser][mcr]
 
-- A minimalistic, cross-platform desktop GUI browser for the Gemini protocol
-- Technologies: **Python**, **Tkinter**, **socket programming**
+- A minimalistic, cross-platform desktop GUI browser for the Gemini protocol.
+- Technologies: **Python**, **Tkinter**, **socket programming**.
 
 ### [s4g][s4g]
 
-- Flexible static site generator that powers my own blog
-- Technologies: **Go**, **JavaScript**
+- Flexible static site generator that powers my own blog.
+- Technologies: **Go**, **JavaScript**, **HTML**, **CSS**.
 
 ### [GORTS][gorts]
 
@@ -102,7 +122,7 @@ the backend. I also develop various types of open source software as a hobby.
   multiple years that peaked at 22k concurrent viewers including restreams in
   Japanese & Mandarin.
 - Technologies: **Go**, **Tcl/Tk**
-  (previously **Python**, **Tkinter**)
+  (previously **Python**, **Tkinter**), **HTML**, **CSS**.
 
 ::: {#right-column}
 
