@@ -41,8 +41,8 @@ evaluate interesting emerging technologies.
 - Wrote internal developer tooling to aid in selective feature rollouts.
 - Collaborated with Product Owners to develop features, which involved
   architectural decisions and effort estimation.
-- Technologies: **Django REST Framework**, **Postgres**, **Docker**,
-  **Microsoft Azure Cloud**.
+- Technologies: **Python**, **Django REST Framework**, **Postgres**,
+  **Docker**, **Microsoft Azure Cloud**.
 
 ### [Inspectorio][insp]
 
@@ -57,8 +57,8 @@ evaluate interesting emerging technologies.
 - Mentored more junior engineers via code review, pair programming and coaching
   on topics like Git workflows.
 - Wrote internal getting-started guide for onboarding Backend Engineers.
-- Technologies: **Django REST Framework**, **Postgres**, **Docker**, **Google
-  Cloud Platform**.
+- Technologies: **Python**, **Django REST Framework**, **Postgres**,
+  **Docker**, **Google Cloud Platform**.
 
 ### [Parcel Perform][pp]
 
@@ -71,8 +71,8 @@ evaluate interesting emerging technologies.
   + [lockeralliance.net][la]: Singapore’s federated smart locker system which
     provides a single consistent interface for locker operators and logistics
     service providers to interoperate.
-- Technologies: **Django REST Framework**, **Postgres**, **Docker Compose**,
-  **AWS**.
+- Technologies: **Python**, **Django REST Framework**, **Postgres**, **Docker
+  Compose**, **AWS**.
 
 ### [East Agile][ea]
 
@@ -82,7 +82,8 @@ evaluate interesting emerging technologies.
   Project ([cpdp.co][cpdp]), a highly interactive visualization of an extensive
   Chicago police misconduct database.
 - Performed pair programming and applied rigorous Test-Driven Development.
-- Technologies: **React/Redux**, **Django REST Framework**, **Ansible**.
+- Technologies: **Python**, **JavaScript**, **React/Redux**, **Django REST
+  Framework**, **Ansible**.
 
 ### [Cogini][cog]
 
@@ -90,7 +91,7 @@ evaluate interesting emerging technologies.
 
 - Developed web apps and implemented server-side API for mobile apps.
 - Maintained configuration management using Chef.
-- Technologies: **Python**, **Postgres**, **nginx**, **JavaScript**, **Chef**
+- Technologies: **Python**, **JavaScript**, **Postgres**, **nginx**, **Chef**
 
 ## Open Source Projects
 
@@ -122,7 +123,7 @@ evaluate interesting emerging technologies.
   multiple years that peaked at 22k concurrent viewers including restreams in
   Japanese & Mandarin.
 - Technologies: **Go**, **Tcl/Tk**
-  (previously **Python**, **Tkinter**), **HTML**, **CSS**.
+  (previously **Python**, **Tkinter**), **JavaScript**, **HTML**, **CSS**.
 
 ::: {#right-column}
 
