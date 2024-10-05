@@ -125,6 +125,14 @@ evaluate interesting emerging technologies.
 - Technologies: **Go**, **Tcl/Tk**
   (previously **Python**, **Tkinter**), **JavaScript**, **HTML**, **CSS**.
 
+### [boast][boast]
+
+- Static git repo listing generator in the same spirit as [Stagit][stagit] but
+  supports cloning without any further server side config.
+- Experimented with Zig and an [HTML builder][html.zig] instead of templates.
+- Technologies: **Zig**, **Git internals**, **HTML**.
+
+
 ::: {#right-column}
 
 ## Qualifications
@@ -179,3 +187,6 @@ evaluate interesting emerging technologies.
 [pdf]: https://cv.imnhan.com/BuiThanhNhan.pdf
 [s4g]: https://hi.imnhan.com/s4g/
 [modec]: https://www.modec.com/
+[boast]: https://github.com/nhanb/boast
+[stagit]: https://codemadness.org/stagit.html
+[html.zig]: https://github.com/nhanb/boast/blob/94a80854984dae44fcf519ef5be3db947176c601/src/html.zig
