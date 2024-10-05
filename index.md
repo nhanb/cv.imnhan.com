@@ -106,7 +106,7 @@ evaluate interesting emerging technologies.
 - Technologies: **Python**, **JavaScript**, **Flask**, **MithrilJS**,
   **SQLite**, **Caddy**, **Google App Engine**, **esbuild**.
 
-### [McRoss browser][mcr]
+### [McRoss][mcr]
 
 - A minimalistic, cross-platform desktop GUI browser for the Gemini protocol.
 - Technologies: **Python**, **Tkinter**, **socket programming**.
