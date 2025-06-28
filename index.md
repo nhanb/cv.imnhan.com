@@ -18,13 +18,13 @@ I also develop various types of open source software as a hobby, not only to
 solve immediate problems and satisfy my intellectual curiosity, but also to
 evaluate interesting emerging technologies.
 
-- **Professional experience**: Git, Python, JavaScript, HTML, CSS, PostgreSQL,
-  Django, Django REST Framework, Docker, Docker Compose, ReactJS, AWS, GCP,
-  Microsoft Azure, Ansible, Kafka, Redis, REST APIs, GitHub, GitLab, GitLab CI,
-  Datadog, Sentry, AWS Lambda.
-- **Casual experience** (through hobby projects): Go, Tcl/Tk, Zig, Tkinter,
-  SQLite, Flask, GitHub Actions, SourceHut, Nginx, Caddy, systemd, Makefiles,
-  pyinfra, Tailscale, cross-platform desktop GUI programming, socket
+- **Professional experience**: Git, Python, JavaScript, TypeScript, HTML, CSS,
+  PostgreSQL, Django, Django REST Framework, Docker, Docker Compose, ReactJS,
+  AWS, GCP, Microsoft Azure, Ansible, Kafka, Redis, REST APIs, GitHub, GitLab,
+  GitLab CI, Datadog, Sentry, AWS Lambda.
+- **Casual experience** (through hobby projects): Zig, Tcl/Tk, Tkinter, Go,
+  SQLite, Flask, GitHub Actions, SourceHut, Nginx, Caddy, systemd, SDL3,
+  Makefiles, pyinfra, Tailscale, cross-platform desktop GUI programming, socket
   programming, static site generators, shell scripting, [amateur][stick]
   [woodworking][pad].
 
@@ -33,16 +33,21 @@ evaluate interesting emerging technologies.
 ### [MODEC][modec]
 
 #### Senior Software Engineer - Backend & Infrastructure (10/2023 -- Current)
-
-- Developed backend for an internal web-based human resources management
-  system for FPSO vessel construction projects.
-- Maintained infrastructure-as-code repo that utilized terraform to manage
-  Azure cloud resources.
-- Wrote internal developer tooling to aid in selective feature rollouts.
-- Collaborated with Product Owners to develop features, which involved
-  architectural decisions and effort estimation.
-- Technologies: **Python**, **Django REST Framework**, **Postgres**,
-  **Docker**, **Microsoft Azure Cloud**.
+- Workflow automation system (2025--current):
+    - Led development of a greenfield web-based project to automate day-to-day
+      tasks of FPSO design engineers.
+    - Worked closely with PO/Engineer to come up with suitable UX design.
+    - Defined software architecture from scratch.
+- HR management system (2023--2025):
+    - Developed backend for an internal web-based human resources management
+      system for FPSO vessel construction projects.
+    - Maintained infrastructure-as-code repo that utilized terraform to manage
+      Azure cloud resources.
+    - Wrote internal developer tooling to aid in selective feature rollouts.
+    - Collaborated with Product Owners to develop features, which involved
+      architectural decisions and effort estimation.
+- Technologies: **Python**, **TypeScript**, **Django REST Framework**,
+  **Postgres**, **Docker**, **Microsoft Azure Cloud**.
 
 ### [Inspectorio][insp]
 
@@ -84,6 +89,9 @@ evaluate interesting emerging technologies.
 - Performed pair programming and applied rigorous Test-Driven Development.
 - Technologies: **Python**, **JavaScript**, **React/Redux**, **Django REST
   Framework**, **Ansible**.
+
+
+<div style="page-break-before: always; margin-top: 12pt;"></div>
 
 ### [Cogini][cog]
 

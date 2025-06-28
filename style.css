@@ -120,6 +120,12 @@ h4 {
 @page {
   size: A4 portrait;
   margin: 8pt 8pt 12pt 8pt;
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    padding-bottom: 1rem;
+    font-size: 0.9rem;
+  }
 }
 
 @media print {
