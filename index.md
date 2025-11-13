@@ -19,7 +19,7 @@ solve immediate problems and satisfy my intellectual curiosity, but also to
 evaluate interesting emerging technologies.
 
 - **Professional experience**: Git, Python, JavaScript, TypeScript, HTML, CSS,
-  PostgreSQL, Django, Django REST Framework, Docker, Docker Compose, ReactJS,
+  PostgreSQL, Django, Django REST Framework, Docker, Docker Compose, React,
   AWS, GCP, Microsoft Azure, Ansible, Kafka, Redis, REST APIs, GitHub, GitLab,
   GitLab CI, Datadog, Sentry, AWS Lambda.
 - **Casual experience** (through hobby projects): Zig, Tcl/Tk, Tkinter, Go,
@@ -46,7 +46,7 @@ evaluate interesting emerging technologies.
     - Wrote internal developer tooling to aid in selective feature rollouts.
     - Collaborated with Product Owners to develop features, which involved
       architectural decisions and effort estimation.
-- Technologies: **Python**, **TypeScript**, **Django REST Framework**,
+- Technologies: **Python**, **TypeScript**, **React**, **Django REST Framework**,
   **Postgres**, **Docker**, **Microsoft Azure Cloud**.
 
 ### [Inspectorio][insp]
