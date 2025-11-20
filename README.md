@@ -10,5 +10,7 @@ sudo pacman -S make entr python-weasyprint pandoc
 make
 ```
 
+> [Why do you wanna work for this company?](https://cv.imnhan.com/work.mp4)
+
 [pd]: https://pandoc.org/
 [wp]: https://weasyprint.org/
