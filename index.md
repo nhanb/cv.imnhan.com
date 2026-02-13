@@ -32,8 +32,8 @@ evaluate interesting emerging technologies.
 
 ### [MODEC][modec]
 
-#### Senior Software Engineer - Backend & Infrastructure (10/2023 -- Current)
-- Workflow automation system (2025--current):
+#### Senior Software Engineer - Backend & Infrastructure (10/2023 -- 01/2026)
+- Workflow automation system (2025--2026):
     - Led development of a greenfield web-based project to automate day-to-day
       tasks of FPSO design engineers.
     - Worked closely with PO/Engineer to come up with suitable UX design.
